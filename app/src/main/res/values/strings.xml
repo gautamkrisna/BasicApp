@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicApp</string>
+    <string name="Enter_Message">Enter your message</string>
+    <string name="Button_Send">Send</string>
+    <string name="imgDescription">Test Description</string>
+    <string name="srchDefaultValue">Default Value for search</string>
+    <string name="strClockDisplayName">Test Clock</string>
+</resources>
